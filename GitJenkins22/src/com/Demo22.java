@@ -12,6 +12,11 @@ public class Demo22 {
 		System.out.println("m1 method");
 		System.out.println("hello m1");
 	}
+
+	public void m2()
+	{
+		System.out.println("m2 method");
+	}
 	
 	
 
